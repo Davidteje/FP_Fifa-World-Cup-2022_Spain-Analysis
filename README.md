@@ -1,7 +1,7 @@
 # PF_Fifa-World-Cup-2022_Spain-Analysis
 
 ![Image text](https://github.com/Davidteje/PF_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/portada_1.jpeg)
-
+![Image text](https://github.com/Davidteje/PF_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/matriz_pases.PNG)
 
 
 ### CONTENIDO
