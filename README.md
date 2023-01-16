@@ -1,6 +1,6 @@
 # PF_Fifa-World-Cup-2022_Spain-Analysis
 
-https://github.com/Davidteje/PF_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/portada_1.jpeg
+![Image text](https://github.com/Davidteje/PF_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/portada_1.jpeg)
 
 
 
