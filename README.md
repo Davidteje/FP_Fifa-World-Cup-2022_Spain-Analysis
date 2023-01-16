@@ -1,5 +1,9 @@
 # PF_Fifa-World-Cup-2022_Spain-Analysis
 
+https://github.com/Davidteje/PF_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/portada_1.jpeg
+
+
+
 ### CONTENIDO
 - Objetivo del proyecto
 - Plazo del proyecto
@@ -11,7 +15,7 @@
 
 
 ### OBJETIVO DEL PROYECTO:
-Realizar un análisis del juego desarrollado por España durante el Mundial de Fútbol de Qatar 2022.
+Realizar un análisis del estilo de juego desarrollado por España durante el Mundial de Fútbol de Qatar 2022.
 
 
 ### PLAZO DEL PROYECTO:
