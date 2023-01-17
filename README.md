@@ -28,8 +28,8 @@ El plazo para la realización del proyecto ha sido de 10 días.
     - sql.ipynb - Jupyter notebook con la carga en SQL de los datos.
     - db_fifa_worldcup_2022.sql - Código SQL Back-up de la base de datos creada.
     - EER diagram - Estructura de la base de datos relacional creada en SQL.
-    - Alineación - Jupyter notebook creado para las coordenadas de la alineación más habitual.
-    - exploración inicial_partido_modelo_datos.ipynb - Jupyter notebook con la exploración detallada de los datos de eventing de un partido modelo del mundial.
+    - Alineación - Jupyter notebook creado para elaborar las coordenadas de las posiciones y los jugadores de la alineación más habitual para su posterior visualización.
+    - exploración inicial_partido_modelo_datos.ipynb - Jupyter notebook con la exploración detallada de los datos de eventing de un partido modelo del mundial. Esta exploración se realizó antes del comienzo del Mundial.
     - funciones.py - Todas las funciones creadas para el procesamiento y transformación de los datos. Más de 100 métricas calculadas.
     - main.ipynb - Jupyter notebook principal de procesamiento y transformación de los datos de eventing.
     - metricas.ipynb - Jupyter notebook con el cálculo inicial de testeo de todas las métricas.
