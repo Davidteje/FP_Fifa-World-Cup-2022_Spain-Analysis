@@ -1,5 +1,7 @@
 # PF_Fifa-World-Cup-2022_Spain-Analysis
 
+Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full Time en Ironhack.
+
 ![Image text](https://github.com/Davidteje/PF_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/matriz_pases.PNG)
 
 
@@ -52,7 +54,16 @@ Obtención de datos por parte de fuente personal.
 
 
 ### DASHBOARD TABLEAU:
-- Enlace al Dashboard de Tableau:
+
+- PORTADA
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_1.PNG)
+
+- INTRO
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_2.PNG)
+
+
+
+- Enlace al Dashboard interactivo de Tableau:
 https://public.tableau.com/app/profile/david.tejedor/viz/FIFAWorldCupQatar2022_Spain_analysis/Historia1
 
 
