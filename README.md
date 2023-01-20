@@ -42,7 +42,6 @@ El plazo para la realización del proyecto ha sido de 10 días.
 - Datos de los eventos (eventing data) de los partidos de España durante el Mundial (más de 10.000 eventos por partido).
 - Resumen de datos de tracking de cada partido de España durante el Mundial.
 - Datos de los jugadores, equipos (España y rivales) y partidos durante el Mundial.
-Obtención de datos por parte de fuente personal.
 
 
 ### PROCESO DE TRABAJO REALIZADO:
