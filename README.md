@@ -2,7 +2,7 @@
 
 Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full Time en Ironhack.
 
-![Image text](https://github.com/Davidteje/PF_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/matriz_pases.PNG)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_7.PNG)
 
 
 ### CONTENIDO
@@ -55,16 +55,46 @@ Obtención de datos por parte de fuente personal.
 
 ### DASHBOARD TABLEAU:
 
+- Enlace al Dashboard interactivo de Tableau:
+https://public.tableau.com/app/profile/david.tejedor/viz/FIFAWorldCupQatar2022_Spain_analysis/Historia1
+
+
 - PORTADA
+
 ![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_1.PNG)
 
 - INTRO
+
 ![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_2.PNG)
 
+- 1.GENERAL
 
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_3.PNG)
 
-- Enlace al Dashboard interactivo de Tableau:
-https://public.tableau.com/app/profile/david.tejedor/viz/FIFAWorldCupQatar2022_Spain_analysis/Historia1
+- 2.1 FUERA DE POSESIÓN
+
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_4.PNG)
+
+- 2.2 FUERA DE POSESIÓN - Jugadores
+
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_5.PNG)
+
+- 3.1 EN POSESIÓN - Distribución
+
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_6.PNG)
+
+- 3.1 EN POSESIÓN - Distribución
+
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_7.PNG)
+
+- 3.2 EN POSESIÓN - Ataque
+
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_8.PNG)
+
+- 3.3 EN POSESIÓN - Jugadores
+
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_9.PNG)
+
 
 
 ### NEXT STEPS:
