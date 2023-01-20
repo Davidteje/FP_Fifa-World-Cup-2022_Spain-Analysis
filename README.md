@@ -26,7 +26,7 @@ El plazo para la realización del proyecto ha sido de 10 días.
 ### ESTRUCTURA DE CARPETAS:
 - Carpeta data - Datos del eventing de los partidos, resumen de los datos de tracking de los partidos, equipos, jugadores y calendario.
 - Carpeta img - Imagenes generadas con los datos utilizadas para el repositorio Github.
-- Carpeta src: 
+- Carpeta src - Código desarrollado en el Proyecto: 
     - sql.ipynb - Jupyter notebook con la carga en SQL de los datos.
     - db_fifa_worldcup_2022.sql - Código SQL Back-up de la base de datos creada.
     - EER diagram - Estructura de la base de datos relacional creada en SQL.
@@ -35,7 +35,7 @@ El plazo para la realización del proyecto ha sido de 10 días.
     - funciones.py - Todas las funciones creadas para el procesamiento y transformación de los datos. Más de 100 métricas calculadas.
     - main.ipynb - Jupyter notebook principal de procesamiento y transformación de los datos de eventing.
     - metricas.ipynb - Jupyter notebook con el cálculo inicial de testeo de todas las métricas.
-    
+- Carpeta viz - Visualización del proyecto. Carpeta con el archivo Tableau realizado.
 
 ### DATOS INICIALES
 - Datos de los eventos (eventing data) de los partidos de España durante el Mundial (más de 10.000 eventos por partido).
