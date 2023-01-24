@@ -8,17 +8,11 @@
 ### ÍNDICE 📋
 
 1 - Objetivo y plazo del proyecto 🎯⌛
-
 2 - Herramientas utilizadas 🧰
-
 3 - Estructura de carpetas 🗂️
-
 4 - Datos iniciales 📨
-
 5 - Proceso de trabajo ⚒️
-
 6 - Dashboard Tableau
-
 7 - Next steps 
 
 
