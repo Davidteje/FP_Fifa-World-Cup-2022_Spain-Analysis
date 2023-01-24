@@ -26,10 +26,10 @@ El plazo para la realización del proyecto ha sido de 10 días.
 - Jupyter Notebook &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/jupyter.jpg" width="22" height="30">  &nbsp;&nbsp;    
 - Pandas &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas.png" width="22" height="30"> &nbsp; &nbsp;
 - SQL &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sql.png" width="23" height="25">   &nbsp;&nbsp;    
-- SQL Alchemy &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg" width="23" height="25">
+- SQL Alchemy &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg" width="40" height="25">
 - MySQL Workbench &nbsp;&nbsp;      <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/mysql-workbench.png" width="23" height="25">
 - Selenium &nbsp;&nbsp;  <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/selenium.png" width="23" height="25">
-- Tableau &nbsp;&nbsp;     <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png" width="23" height="25">
+- Tableau &nbsp;&nbsp;     <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png" width="35" height="25">
 
 
 ### 3 - ESTRUCTURA DE CARPETAS 🗂️
