@@ -5,7 +5,7 @@ Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full 
 
 ![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas_python.png)
 ![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg)
-![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/mysql-workbench.png)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/MySQLworkbench.jpeg)
 ![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png)
 
 ![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_7.PNG)
