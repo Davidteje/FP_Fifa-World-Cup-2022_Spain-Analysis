@@ -52,7 +52,7 @@ El plazo para la realización del proyecto ha sido de 10 días.
 
 
 ### PROCESO DE TRABAJO REALIZADO:
-- EDA - Exploratory Data Analysis - Exploración detallada de los datos, incorporando visualización en Python, para el mejor entendimiento posible de los datos de eventing de los partidos.
+- EDA - Exploratory Data Analysis - Exploración detallada de los datos, incorporando visualización en Python, para el mejor entendimiento posible de los datos de eventing de los partidos para su posterior análisis.
 - Limpieza de datos y procesamiento - Limpieza de datos inconcluyentes para el Proyecto, y procesamiento de los mismos.
 - Transformación - Obtencion de más de 100 métricas por partido que miden los diferentes aspectos del juego, tanto de España como del rival.
 - Creación de base de datos en SQL - Base de datos relacional.
