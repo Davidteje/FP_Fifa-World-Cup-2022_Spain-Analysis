@@ -32,7 +32,7 @@ El plazo para la realización del proyecto ha sido de 10 días.
 - SQL Alchemy &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg" width="45" height="25">
 - MySQL Workbench &nbsp;&nbsp;      <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/mysql-workbench.png" width="23" height="25">
 - Selenium &nbsp;&nbsp;  <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/selenium.png" width="23" height="25">
-- Tableau &nbsp;&nbsp;     <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png" width="45" height="35">
+- Tableau &nbsp;&nbsp;   <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png" width="45" height="35">
 
 
 ### 3 - ESTRUCTURA DE CARPETAS 🗂️
