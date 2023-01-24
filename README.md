@@ -19,15 +19,16 @@ Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full 
 - Carpeta data - Datos del eventing de los partidos, resumen de los datos de tracking de los partidos, equipos, jugadores y calendario.
 - Carpeta img - Imagenes generadas con los datos utilizadas para el repositorio Github.
 - Carpeta src - Código desarrollado en el Proyecto: 
-    - sql.ipynb - Jupyter notebook con la carga en SQL de los datos.
-    - db_fifa_worldcup_2022.sql - Código SQL Back-up de la base de datos creada.
-    - EER diagram - Estructura de la base de datos relacional creada en SQL.
     - Alineación - Jupyter notebook creado para elaborar las coordenadas de las posiciones y los jugadores de la alineación más habitual para su posterior visualización.
     - exploración inicial_partido_modelo_datos.ipynb - Jupyter notebook con la exploración detallada de los datos de eventing de un partido modelo del mundial. Esta exploración se realizó antes del comienzo del Mundial.
     - funciones.py - Todas las funciones creadas para el procesamiento y transformación de los datos. Más de 100 métricas calculadas.
     - main.ipynb - Jupyter notebook principal de procesamiento y transformación de los datos de eventing.
     - metricas.ipynb - Jupyter notebook con el cálculo inicial de testeo de todas las métricas.
-- Carpeta viz - Visualización del proyecto. Carpeta con el archivo Tableau realizado, y los ficheros con los datos de alimentación a la visualización.
+- Carpeta sql - Código y ficheros relacionados con la carga de datos en SQL:
+    - sql.ipynb - Jupyter notebook con la carga en SQL de los datos.
+    - db_fifa_worldcup_2022.sql - Código SQL Back-up de la base de datos creada.
+    - EER diagrams - Diagramas EER (Enhanced Entity-Relationship) con la estructura de la DB creada.
+- Carpeta visualización - Visualización del proyecto. Carpeta con el archivo Tableau realizado, y los ficheros con los datos de alimentación a la visualización.
 
 
 ### OBJETIVO DEL PROYECTO:
