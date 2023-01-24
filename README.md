@@ -1,26 +1,30 @@
 # PF_Fifa-World-Cup-2022_Spain-Analysis
 
-Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full Time en Ironhack.
+👨‍💻 Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full Time en Ironhack.
 
 ![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_1.PNG)
 
 
 ### ÍNDICE 📋
-1- Objetivo y plazo del proyecto
-2- Herramientas utilizadas
-3- Estructura de carpetas
-4- Datos iniciales
-5- Proceso de trabajo
-6- Dashboard Tableau
-7- Next steps 
+1 - Objetivo y plazo del proyecto 🎯⌛
+2 - Herramientas utilizadas 🧰
+3 - Estructura de carpetas 🗂️
+4 - Datos iniciales 📨
+5 - Proceso de trabajo ⚒️
+6 - Dashboard Tableau
+7 - Next steps 
 
 
-### 1- OBJETIVO Y PLAZO DEL PROYECTO 🎯⌛
+### 1 - OBJETIVO Y PLAZO DEL PROYECTO 🎯⌛
 Realizar un análisis del estilo de juego desarrollado por España durante el Mundial de Fútbol de Qatar 2022.
 El plazo para la realización del proyecto ha sido de 10 días.
 
 
-### 2- ESTRUCTURA DE CARPETAS 🗂️
+### 2 - HERRAMIENTAS UTILIZADAS 🧰
+&emsp;&emsp;&emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/python.webp" width="25" height="25">&emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/jupyter.jpg" width="22" height="30">  &nbsp;&nbsp;    <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas.png" width="22" height="30"> &nbsp; &nbsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sql.png" width="23" height="25">   &nbsp;&nbsp;    <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg" width="23" height="25">     &nbsp;&nbsp;  <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/selenium.png" width="23" height="25">&nbsp;&nbsp;      <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/mysql-workbench.png" width="10" height="25">        &nbsp;&nbsp;     <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png" width="16" height="25">
+
+
+### 3 - ESTRUCTURA DE CARPETAS 🗂️
 - Carpeta data - Datos del eventing de los partidos, resumen de los datos de tracking de los partidos, equipos, jugadores y calendario.
 - Carpeta img - Imagenes generadas con los datos utilizadas para el repositorio Github.
 - Carpeta src - Código desarrollado en el Proyecto: 
@@ -37,13 +41,13 @@ El plazo para la realización del proyecto ha sido de 10 días.
 
 
 
-### DATOS INICIALES DE PARTIDA 📨
+### 4 - DATOS INICIALES 📨
 - Datos de los eventos (eventing data) de los partidos de España durante el Mundial (más de 10.000 eventos por partido).
 - Resumen de datos de tracking de cada partido de España durante el Mundial.
 - Datos de los jugadores, equipos (España y rivales) y partidos durante el Mundial.
 
 
-### PROCESO DE TRABAJO REALIZADO ⚒️
+### 5 - PROCESO DE TRABAJO ⚒️
 - EDA - Exploratory Data Analysis - Exploración detallada de los datos, incorporando visualización en Python, para el mejor entendimiento posible de los datos de eventing de los partidos para su posterior análisis.
 - Limpieza de datos y procesamiento - Limpieza de datos inconcluyentes para el Proyecto, y procesamiento de los mismos.
 - Transformación - Obtencion de más de 100 métricas por partido que miden los diferentes aspectos del juego, tanto de España como del rival.
@@ -54,7 +58,7 @@ El plazo para la realización del proyecto ha sido de 10 días.
 - Visualización con Tableau - Análisis dinámico e interactivo del estilo de juego de España en el Mundial.
 
 
-### DASHBOARD TABLEAU 👨‍🎨
+### 6 - DASHBOARD TABLEAU 👨‍🎨
 
 - Enlace al Dashboard interactivo de Tableau:
 https://public.tableau.com/app/profile/david.tejedor/viz/FIFAWorldCupQatar2022_Spain_analysis/Historia1
@@ -98,7 +102,7 @@ https://public.tableau.com/app/profile/david.tejedor/viz/FIFAWorldCupQatar2022_S
 
 
 
-### NEXT STEPS 🪜
+### 7 - NEXT STEPS 🪜
 - Completar el análisis con todos los partidos del Mundial.
 
 
