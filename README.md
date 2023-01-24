@@ -8,7 +8,7 @@
 ### ÍNDICE 📋
 
 - 1 - Objetivo y plazo del proyecto 🎯⌛
-- 2 - Herramientas utilizadas 🧰
+- 2 - Tecnologías empleadas 🧰
 - 3 - Estructura de carpetas 🗂️
 - 4 - Datos iniciales 📨
 - 5 - Proceso de trabajo ⚒️
@@ -21,9 +21,11 @@ Realizar un análisis del estilo de juego desarrollado por España durante el Mu
 El plazo para la realización del proyecto ha sido de 10 días.
 
 
-### 2 - HERRAMIENTAS UTILIZADAS 🧰
+### 2 - TECNOLOGÍAS EMPLEADAS 🧰
 - Python &emsp;&emsp;&emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/python.webp" width="25" height="25">
-- Jupyter Notebook &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/jupyter.jpg" width="22" height="30">  &nbsp;&nbsp;    <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas.png" width="22" height="30"> &nbsp; &nbsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sql.png" width="23" height="25">   &nbsp;&nbsp;    <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg" width="23" height="25">     &nbsp;&nbsp;  <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/selenium.png" width="23" height="25">&nbsp;&nbsp;      <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/mysql-workbench.png" width="10" height="25">        &nbsp;&nbsp;     <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png" width="16" height="25">
+- Jupyter Notebook &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/jupyter.jpg" width="22" height="30">  &nbsp;&nbsp;    
+- Pandas <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas.png" width="22" height="30"> &nbsp; &nbsp;
+- SQL <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sql.png" width="23" height="25">   &nbsp;&nbsp;    <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg" width="23" height="25">     &nbsp;&nbsp;  <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/selenium.png" width="23" height="25">&nbsp;&nbsp;      <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/mysql-workbench.png" width="10" height="25">        &nbsp;&nbsp;     <img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png" width="16" height="25">
 
 
 ### 3 - ESTRUCTURA DE CARPETAS 🗂️
