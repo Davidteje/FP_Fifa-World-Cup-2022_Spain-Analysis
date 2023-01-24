@@ -2,6 +2,12 @@
 
 Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full Time en Ironhack.
 
+
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas_python.png)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/mysql-workbench.png)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png)
+
 ![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_7.PNG)
 
 
@@ -50,10 +56,10 @@ El plazo para la realización del proyecto ha sido de 10 días.
 - Limpieza de datos y procesamiento - Limpieza de datos inconcluyentes para el Proyecto, y procesamiento de los mismos.
 - Transformación - Obtencion de más de 100 métricas por partido que miden los diferentes aspectos del juego, tanto de España como del rival.
 - Creación de base de datos en SQL - Base de datos relacional.
-![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/src/EER_diagram_1.PNG)
-![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/src/EER_diagram_2.PNG)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/sql/EER_diagram_1.PNG)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/sql/EER_diagram_2.PNG)
 
-- Visualización con Tableau - Análisis del estilo de España en el Mundial.
+- Visualización con Tableau - Análisis dinámico e interactivo del estilo de juego de España en el Mundial.
 
 
 ### DASHBOARD TABLEAU:
