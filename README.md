@@ -2,30 +2,29 @@
 
 Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full Time en Ironhack.
 
-
-![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas_python.png)
-![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg)
-![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/MySQLworkbench.jpeg)
-![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png)
-
-![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_7.PNG)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau_Dashboard_1.PNG)
 
 
-### CONTENIDO
-- Estructura de carpetas
-- Objetivo del proyecto
-- Plazo del proyecto
-- Datos iniciales
-- Proceso de trabajo
-- Dashboard Tableau
-- Next steps
+### ÍNDICE 📋
+1- Objetivo y plazo del proyecto
+2- Herramientas utilizadas
+3- Estructura de carpetas
+4- Datos iniciales
+5- Proceso de trabajo
+6- Dashboard Tableau
+7- Next steps 
 
 
-### ESTRUCTURA DE CARPETAS:
+### 1- OBJETIVO Y PLAZO DEL PROYECTO 🎯⌛
+Realizar un análisis del estilo de juego desarrollado por España durante el Mundial de Fútbol de Qatar 2022.
+El plazo para la realización del proyecto ha sido de 10 días.
+
+
+### 2- ESTRUCTURA DE CARPETAS 🗂️
 - Carpeta data - Datos del eventing de los partidos, resumen de los datos de tracking de los partidos, equipos, jugadores y calendario.
 - Carpeta img - Imagenes generadas con los datos utilizadas para el repositorio Github.
 - Carpeta src - Código desarrollado en el Proyecto: 
-    - Alineación - Jupyter notebook creado para elaborar las coordenadas de las posiciones y los jugadores de la alineación más habitual para su posterior visualización.
+    - alineación.ipynb - Jupyter notebook creado para elaborar las coordenadas de las posiciones y los jugadores de la alineación más habitual para su posterior visualización.
     - exploración inicial_partido_modelo_datos.ipynb - Jupyter notebook con la exploración detallada de los datos de eventing de un partido modelo del mundial. Esta exploración se realizó antes del comienzo del Mundial.
     - funciones.py - Todas las funciones creadas para el procesamiento y transformación de los datos. Más de 100 métricas calculadas.
     - main.ipynb - Jupyter notebook principal de procesamiento y transformación de los datos de eventing.
@@ -37,21 +36,14 @@ Este repositorio corresponde al proyecto final del Bootcamp Data Analytics Full 
 - Carpeta visualización - Visualización del proyecto. Carpeta con el archivo Tableau realizado, y los ficheros con los datos de alimentación a la visualización.
 
 
-### OBJETIVO DEL PROYECTO:
-Realizar un análisis del estilo de juego desarrollado por España durante el Mundial de Fútbol de Qatar 2022.
 
-
-### PLAZO DEL PROYECTO:
-El plazo para la realización del proyecto ha sido de 10 días.
-
-
-### DATOS INICIALES DE PARTIDA
+### DATOS INICIALES DE PARTIDA 📨
 - Datos de los eventos (eventing data) de los partidos de España durante el Mundial (más de 10.000 eventos por partido).
 - Resumen de datos de tracking de cada partido de España durante el Mundial.
 - Datos de los jugadores, equipos (España y rivales) y partidos durante el Mundial.
 
 
-### PROCESO DE TRABAJO REALIZADO:
+### PROCESO DE TRABAJO REALIZADO ⚒️
 - EDA - Exploratory Data Analysis - Exploración detallada de los datos, incorporando visualización en Python, para el mejor entendimiento posible de los datos de eventing de los partidos para su posterior análisis.
 - Limpieza de datos y procesamiento - Limpieza de datos inconcluyentes para el Proyecto, y procesamiento de los mismos.
 - Transformación - Obtencion de más de 100 métricas por partido que miden los diferentes aspectos del juego, tanto de España como del rival.
@@ -62,7 +54,7 @@ El plazo para la realización del proyecto ha sido de 10 días.
 - Visualización con Tableau - Análisis dinámico e interactivo del estilo de juego de España en el Mundial.
 
 
-### DASHBOARD TABLEAU:
+### DASHBOARD TABLEAU 👨‍🎨
 
 - Enlace al Dashboard interactivo de Tableau:
 https://public.tableau.com/app/profile/david.tejedor/viz/FIFAWorldCupQatar2022_Spain_analysis/Historia1
@@ -106,9 +98,12 @@ https://public.tableau.com/app/profile/david.tejedor/viz/FIFAWorldCupQatar2022_S
 
 
 
-### NEXT STEPS:
+### NEXT STEPS 🪜
 - Completar el análisis con todos los partidos del Mundial.
 
 
-
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas_python.png)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/MySQLworkbench.jpeg)
+![Image text](https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/Tableau.png)
 
