@@ -12,8 +12,8 @@
 - 3 - Estructura de carpetas 🗂️
 - 4 - Datos iniciales 📨
 - 5 - Proceso de trabajo ⚒️
-- 6 - Dashboard Tableau
-- 7 - Next steps 
+- 6 - Dashboard Tableau 🎨
+- 7 - Next steps 🪜
 
 
 ### 1 - OBJETIVO Y PLAZO DEL PROYECTO 🎯⌛
@@ -26,7 +26,7 @@ El plazo para la realización del proyecto ha sido de 10 días.
 - Python &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/python.webp" width="25" height="25">
 - Jupyter Notebook &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/jupyter.jpg" width="22" height="30">  &nbsp;&nbsp;    
 - Pandas &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/pandas.png" width="22" height="30"> &nbsp; &nbsp;
-- Matplotib &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/matplotib.png" width="65" height="30"> &nbsp; &nbsp;
+- Matplotib &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/matplotib.png" width="75" height="30"> &nbsp; &nbsp;
 - Seaborn &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/seaborn.png" width="30" height="30"> &nbsp; &nbsp;
 - SQL &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sql.png" width="23" height="25">   &nbsp;&nbsp;    
 - SQL Alchemy &emsp;<img src="https://github.com/Davidteje/FP_Fifa-World-Cup-2022_Spain-Analysis/blob/main/img/sqlalchemy.jpeg" width="45" height="25">
@@ -39,10 +39,9 @@ El plazo para la realización del proyecto ha sido de 10 días.
 - Carpeta data - Datos del eventing de los partidos, resumen de los datos de tracking de los partidos, equipos, jugadores y calendario.
 - Carpeta img - Imagenes generadas con los datos utilizadas para el repositorio Github.
 - Carpeta src - Código desarrollado en el Proyecto: 
-    - alineación.ipynb - Jupyter notebook creado para elaborar las coordenadas de las posiciones y los jugadores de la alineación más habitual para su posterior visualización.
     - exploración inicial_partido_modelo_datos.ipynb - Jupyter notebook con la exploración detallada de los datos de eventing de un partido modelo del mundial. Esta exploración se realizó antes del comienzo del Mundial.
     - funciones.py - Todas las funciones creadas para el procesamiento y transformación de los datos. Más de 100 métricas calculadas.
-    - main.ipynb - Jupyter notebook principal de procesamiento y transformación de los datos de eventing.
+    - main.ipynb - Jupyter notebook principal de procesamiento y transformación de los datos de eventing y tracking, así como realiación del cálculo de minutos jugados y alineación más habitual.
     - metricas.ipynb - Jupyter notebook con el cálculo inicial de testeo de todas las métricas.
 - Carpeta sql - Código y ficheros relacionados con la carga de datos en SQL:
     - sql.ipynb - Jupyter notebook con la carga en SQL de los datos.
