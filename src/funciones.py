@@ -1,35 +1,12 @@
 
 import pandas as pd
 
+
+### Funciones para limpieza de datos
+
 def capitalizar(row):
     row=row.capitalize()
     return row
-
-def minutos_jugados(df, df_minutos):
-    for i in df_minutos.player_id:
-        if i in df.from_player_id.unique():
-            if i not in df[df.event=='substitution_on'].from_player_id.unique() and i not in df[df.event=='substitution_on'].to_player_id.unique():
-                if df.match_time_in_min.max()<105:
-                    index = df_minutos[df_minutos.player_id==i].index[0]
-                    df_minutos.at[index,'minutos_jugados']+=90
-                else:
-                    index = df_minutos[df_minutos.player_id==i].index[0]
-                    df_minutos.at[index,'minutos_jugados']+=120
-            else:
-                if i in df[df.event=='substitution_on'].from_player_id.unique():
-                    minutos_jugados = list(df[(df.event=='substitution_on') & (df.from_player_id==i)].match_time_in_min)[0]
-                    index = df_minutos[df_minutos.player_id==i].index[0]
-                    df_minutos.at[index,'minutos_jugados']+=minutos_jugados
-                else:
-                    if df.match_time_in_min.max()<105:
-                        minutos_jugados = 90 - list(df[(df.event=='substitution_on') & (df.to_player_id==i)].match_time_in_min)[0]
-                        index = df_minutos[df_minutos.player_id==i].index[0]
-                        df_minutos.at[index,'minutos_jugados']+=minutos_jugados
-                    else:
-                        minutos_jugados = 120 - list(df[(df.event=='substitution_on') & (df.to_player_id==i)].match_time_in_min)[0]
-                        index = df_minutos[df_minutos.player_id==i].index[0]
-                        df_minutos.at[index,'minutos_jugados']+=minutos_jugados
-    return df_minutos
 
 
 def pasar_ms_a_min(row):
@@ -41,6 +18,8 @@ def abs_coord(row):
     row = 0.5 + (0.5 - row)
     return row
 
+
+### Funciones para cálculo de métricas y estadísticas de cada partido mediante la transformaación de los datos del eventing.
 
 def calculo_corners(df):
     
@@ -986,6 +965,8 @@ def metricas_partido(df):
     return df_estadisticas
 
 
+### Funciones para cálculo de métricas y estadísticas de cada partido mediante la transformaación de los datos del tracking.
+
 def distancia_recorrida(df):
     
     lista_distancia_recorrida=[]
@@ -1061,4 +1042,33 @@ def metricas_tracking_partido(df):
     df_estadisticas_tr = pd.DataFrame(lista_tr_partido, columns = columnas)
     
     return df_estadisticas_tr
+
+
+### Función para cálculo de minutos jugados acumulados por cada jugador mediante la transformaación de los datos del eventing.
+
+def minutos_jugados(df, df_minutos):
+    for i in df_minutos.player_id:
+        if i in df.from_player_id.unique():
+            if i not in df[df.event=='substitution_on'].from_player_id.unique() and i not in df[df.event=='substitution_on'].to_player_id.unique():
+                if df.match_time_in_min.max()<105:
+                    index = df_minutos[df_minutos.player_id==i].index[0]
+                    df_minutos.at[index,'minutos_jugados']+=90
+                else:
+                    index = df_minutos[df_minutos.player_id==i].index[0]
+                    df_minutos.at[index,'minutos_jugados']+=120
+            else:
+                if i in df[df.event=='substitution_on'].from_player_id.unique():
+                    minutos_jugados = list(df[(df.event=='substitution_on') & (df.from_player_id==i)].match_time_in_min)[0]
+                    index = df_minutos[df_minutos.player_id==i].index[0]
+                    df_minutos.at[index,'minutos_jugados']+=minutos_jugados
+                else:
+                    if df.match_time_in_min.max()<105:
+                        minutos_jugados = 90 - list(df[(df.event=='substitution_on') & (df.to_player_id==i)].match_time_in_min)[0]
+                        index = df_minutos[df_minutos.player_id==i].index[0]
+                        df_minutos.at[index,'minutos_jugados']+=minutos_jugados
+                    else:
+                        minutos_jugados = 120 - list(df[(df.event=='substitution_on') & (df.to_player_id==i)].match_time_in_min)[0]
+                        index = df_minutos[df_minutos.player_id==i].index[0]
+                        df_minutos.at[index,'minutos_jugados']+=minutos_jugados
+    return df_minutos
 
