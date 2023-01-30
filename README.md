@@ -43,8 +43,8 @@ El plazo para la realización del proyecto ha sido de 10 días.
     - funciones.py - Todas las funciones creadas para el procesamiento y transformación de los datos. Más de 100 métricas calculadas.
     - main.ipynb - Jupyter notebook principal de procesamiento y transformación de los datos de eventing y tracking, así como realiación del cálculo de minutos jugados y alineación más habitual.
     - metricas.ipynb - Jupyter notebook con el cálculo inicial de testeo de todas las métricas.
-- Carpeta sql - Código y ficheros relacionados con la carga de datos en SQL:
     - sql.ipynb - Jupyter notebook con la carga en SQL de los datos.
+- Carpeta sql - Código y ficheros relacionados con la base de datos creada en MySQL:
     - db_fifa_worldcup_2022.sql - Código SQL Back-up de la base de datos creada.
     - EER diagrams - Diagramas EER (Enhanced Entity-Relationship) con la estructura de la DB creada.
 - Carpeta visualización - Visualización del proyecto. Carpeta con el archivo Tableau realizado, y los ficheros con los datos de alimentación a la visualización.
